@@ -6,6 +6,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualización-4C72B0?style=flat)
 ![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=flat)
 
+*Leer en otros idiomas: [English](README_en.md), [Español](README.md).*
+
 ---
 
 ## 🔗 Proyecto Completo
@@ -42,7 +44,7 @@ A través de un proceso completo de **ETL (Extracción, Transformación y Carga)
 
 ## 🧱 Estructura del Proyecto
 
-El proyecto está organizado en las siguientes etapas dentro del notebook:
+El proyecto está organizado en las siguientes etapas dentro del notebook `TelecomX_LATAM.ipynb`:
 
 ### 1️⃣ Extracción
 - Importación de datos desde una fuente estructurada (JSON).
